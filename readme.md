@@ -26,7 +26,7 @@ If you want to use *Contact Us* form, go to "Contact" page
 > In order to see emails go to [http://localhost:8025](http://localhost:8025)
 > > Django-Admin has *Feedback* tab with *Contact Us* queries where you can answer user's queries and check queries statuses
 
-**Swagger**
+***Swagger***
 
 In order to see an API docs with Swagger, go to - [http://localhost:8008/swagger](http://localhost:8008/swagger)
 
