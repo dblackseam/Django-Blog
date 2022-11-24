@@ -1,4 +1,4 @@
-# Django Blog project
+# Django Blog project (work in progress)
 
 #### Run the local develop server:
 	    docker-compose up -d --build
